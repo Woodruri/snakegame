@@ -8,4 +8,4 @@ struct sGame {
 
     int len;
 
-}
+} sGame;
