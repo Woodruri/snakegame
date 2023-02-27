@@ -2,7 +2,8 @@
 
 #pragma once
 
-#define 
+#define WID 40
+#define LEN 40
 
 struct snakeGame{
     int length[];
