@@ -2,10 +2,10 @@
 
 #pragma once
 
-#define WID 40
-#define LEN 40
+#define WIDTH 40
+#define HEIGHT 40
+struct sGame {
 
-struct snakeGame{
-    int length[];
+    int len;
 
 }
